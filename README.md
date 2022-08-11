@@ -30,12 +30,35 @@
 
 #### 1. 原始图像
 
+![](https://github.com/User-FrenchFries/OpenCvTest/blob/master/picResult/origin.png)
+
 #### 2. 直方图均衡化
+
+![](https://github.com/User-FrenchFries/OpenCvTest/blob/master/picResult/he.png)
 
 #### 3. CLAHE
 
+默认情况
+
+![](https://github.com/User-FrenchFries/OpenCvTest/blob/master/picResult/clahe_default.png)
+
+自主调试裁剪大小（7.7）
+
+![](https://github.com/User-FrenchFries/OpenCvTest/blob/master/picResult/clahe_7.7.png)
+
+(0.0)
+
+![](https://github.com/User-FrenchFries/OpenCvTest/blob/master/picResult/clahe_0.0.png)
+
 #### 4. 拉普拉斯
+
+![](https://github.com/User-FrenchFries/OpenCvTest/blob/master/picResult/lapras.png)
 
 #### 5. 对数变化
 
+![](https://github.com/User-FrenchFries/OpenCvTest/blob/master/picResult/log.png)
+
 #### 6. 伽马变化
+
+![](https://github.com/User-FrenchFries/OpenCvTest/blob/master/picResult/gamma.png)
+
